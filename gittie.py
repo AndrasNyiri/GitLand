@@ -7,3 +7,7 @@ def add(a, b):
 def joke():
     print("Vigyázz kisegér, rádesik a vaj!")
     print("Ráma margarin?")
+
+
+def shout():
+    print("HEY")
